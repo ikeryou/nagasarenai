@@ -3,6 +3,7 @@
 
 ### サイトURL ###
 http://ikeryou.jp/oui/na/<br>
+※iPhone限定
 
 ### サイトについて ###
 iPhoneを横向きにするとコンテンツも自動的に横向きになります<br>
