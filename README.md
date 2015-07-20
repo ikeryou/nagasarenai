@@ -13,3 +13,4 @@ iPhoneを横向きにするとコンテンツも自動的に横向きになり�
 決して周りに流されず 自分の方向を見失わない そんなつぶやきになっています
 
 ### 操作方法 ###
+<img src="http://ikeryou.jp/oui/na/sample.gif" width="480" height="480">
